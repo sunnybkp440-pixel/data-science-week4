@@ -1,0 +1,4 @@
+Model,CV_accuracy,Train_acc,Test_acc,Precision,Recall,F1,ROC_AUC
+Logistic Regression,0.9736,0.9868,0.9649,0.975,0.9286,0.9512,0.996
+Decision Tree,0.9231,1.0,0.9298,0.9048,0.9048,0.9048,0.9246
+Random Forest,0.9604,1.0,0.9737,1.0,0.9286,0.963,0.9944
